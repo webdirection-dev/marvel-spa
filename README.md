@@ -1,2 +1,1 @@
-# marvel-spa
- 
+# Marvel-spa React with class components
